@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vaibhav-ak
-- 👀 I’m interested in ... Go , K8s , streaming data 
+- 👀 I’m interested in ... Chess , Go , K8s , streaming data 
 - 🌱 I’m currently learning ... Go
 - 💞️ I’m looking to collaborate on ... Go 
 - 📫 How to reach me ... 
